@@ -1,7 +1,7 @@
 #!/bin/bash
 # Automatyczny skrypt instalacji n8n na Raspberry Pi
 # Autor: Łukasz Podgórski & Anthropic Claude
-# Data: 13.03.2025
+# Data: 13.03.2025 Prima Aprilis
 # Wersja: 2.6 (simplified permissions)
 # Poradnik z serwisu: www.przewodnikai.pl
 # Kanał YouTube: https://www.youtube.com/@lukaszpodgorski
